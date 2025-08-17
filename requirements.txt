@@ -1,6 +1,6 @@
 streamlit
 numpy
 matplotlib
-reportlab
 plotly
+reportlab
 kaleido
